@@ -1,6 +1,6 @@
 {
 	"name": "wordpress/twentytwentyfive",
-	"type": "package",
+	"type": "wordpress-theme",
 	"description": "The default WordPress theme for 2025",
 	"keywords": [
 		"WordPress",
